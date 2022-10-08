@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -ail ./4-listmorefiles
+ls -la ./4-listmorefiles
