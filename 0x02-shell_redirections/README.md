@@ -5,4 +5,5 @@ Kind of getting it no
 I wanted to chill with the big boy
 Redirecting and filtering
 First in lin
-Write a shell script that creates a file named exactly  
+Write a shell script that creates a file named exactly
+Grit and growth  
