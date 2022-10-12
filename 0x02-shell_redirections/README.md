@@ -15,4 +15,5 @@ Unique levels
 Inside files
 Counting one by one
 Conditioning patterns
-More patterns   
+More patterns
+Letters only please   
