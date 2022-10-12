@@ -24,4 +24,5 @@ Write a script that displays all users and their home directories, sorted by use
 Hidden files only
 Gif extensions
 Acrostic
-Biggest fan  
+Biggest fan
+The whole shebang  
