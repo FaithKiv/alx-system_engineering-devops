@@ -22,4 +22,5 @@ Script that removes
 Bummer
 Write a script that displays all users and their home directories, sorted by users
 Hidden files only
-Gif extensions  
+Gif extensions
+Acrostic  
