@@ -11,4 +11,5 @@ Duplication
 No more javascript
 Make your directories count
 New directories
-Unique levels   
+Unique levels
+Inside files   
