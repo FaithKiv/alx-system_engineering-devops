@@ -14,4 +14,5 @@ New directories
 Unique levels
 Inside files
 Counting one by one
-Conditioning patterns   
+Conditioning patterns
+More patterns   
