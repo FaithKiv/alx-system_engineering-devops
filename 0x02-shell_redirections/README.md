@@ -7,4 +7,5 @@ Redirecting and filtering
 First in lin
 Write a shell script that creates a file named exactly
 Grit and growth
-Duplication   
+Duplication
+No more javascript   
