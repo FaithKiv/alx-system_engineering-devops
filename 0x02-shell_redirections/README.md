@@ -19,4 +19,6 @@ More patterns
 Letters only please 
 Replacement
 Script that removes
-Bummer  
+Bummer
+Write a script that displays all users and their home directories, sorted by users
+  
