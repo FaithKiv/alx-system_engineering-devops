@@ -13,4 +13,5 @@ Make your directories count
 New directories
 Unique levels
 Inside files
-Counting one by one   
+Counting one by one
+Conditioning patterns   
