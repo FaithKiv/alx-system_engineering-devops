@@ -9,4 +9,5 @@ Write a shell script that creates a file named exactly
 Grit and growth
 Duplication
 No more javascript
-Make your directories count   
+Make your directories count
+New directories   
