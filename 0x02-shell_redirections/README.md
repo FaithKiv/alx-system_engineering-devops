@@ -8,4 +8,5 @@ First in lin
 Write a shell script that creates a file named exactly
 Grit and growth
 Duplication
-No more javascript   
+No more javascript
+Make your directories count   
