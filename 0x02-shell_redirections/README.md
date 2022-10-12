@@ -18,4 +18,4 @@ Conditioning patterns
 More patterns
 Letters only please 
 Replacement
-  
+Script that removes  
