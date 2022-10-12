@@ -23,4 +23,5 @@ Bummer
 Write a script that displays all users and their home directories, sorted by users
 Hidden files only
 Gif extensions
-Acrostic  
+Acrostic
+Biggest fan  
