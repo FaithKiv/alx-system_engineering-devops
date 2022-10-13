@@ -9,4 +9,5 @@ Global variable
 Shebang always
 Divide
 Community
-Communication 
+Communication
+Do hard things 
