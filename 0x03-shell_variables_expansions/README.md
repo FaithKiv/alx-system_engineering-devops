@@ -4,4 +4,5 @@ Init
 Shell navigation
 Print
 Local variables
-Scripting 
+Scripting
+Global variable 
