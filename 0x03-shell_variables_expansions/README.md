@@ -5,4 +5,5 @@ Shell navigation
 Print
 Local variables
 Scripting
-Global variable 
+Global variable
+Shebang always 
