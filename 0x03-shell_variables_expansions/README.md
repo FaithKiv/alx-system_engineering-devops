@@ -13,4 +13,5 @@ Communication
 Do hard things
 Print float
 Decimal to Hexadecimall
-Root 
+Root
+Just the way you are 
